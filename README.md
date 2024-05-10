@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->[
-![[SFM] ULTRAKILL V1 Ballin]https://tenor.com/bXkUo.gif)
+<img align="right" width="200px" height="200px"  src='https://tenor.com/es-419/view/v1-ultrakill-ballin-meme-gif-27605211' />
+
+
