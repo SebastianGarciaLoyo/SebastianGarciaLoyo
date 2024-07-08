@@ -13,7 +13,7 @@
 - 📫 How to reach me **garcialoyosebastian@gmail.com**
 
 - ⚡ Fun fact **The Nike clothing brand is named after the Greek goddess of victory. The winged goddess Nike sat at the side of Zeus. Her presence symbolized victory, and she was said to have presided over some of history's earliest battles.**
-<img align="right" width="200px" height="200px" src='https://media1.tenor.com/m/gjJ961YDII4AAAAd/ultrakill.gif'/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
