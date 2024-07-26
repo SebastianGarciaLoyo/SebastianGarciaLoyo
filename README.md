@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastian Garcia Loyo</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sebastiangarcialoyo&label=Profile%20views&color=0e75b6&style=flat" alt="sebastiangarcialoyo" /> </p>
+
 
 <img align="right" width="200px" height="200px" src='https://media1.tenor.com/m/lRsQA8_QclAAAAAC/v1-ultrakill.gif'/>
 
